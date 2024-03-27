@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Rokade</h1>
 <h3 align="center">A passionate Data Scientist and Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\Admin\Downloads\68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966.gif">
+<img align="right" width="400" src="![image](https://github.com/Rokade-DP/Rokade-DP/assets/78254342/4c927388-464a-43c4-828f-9c357f8a1d55)" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokade-dp&label=Profile%20views&color=0e75b6&style=flat" alt="rokade-dp" /> </p>
 
 - 🌱 I’m currently learning **Generative AI**
