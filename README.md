@@ -1,3 +1,4 @@
+![logo](https://github.com/Rokade-DP/Rokade-DP/blob/main/poster.png)
 <h1 align="center">Hi 👋, I'm Dhananjay Rokade</h1>
 <h3 align="center">A passionate Data Scientist and Software Developer from India</h3>
 
