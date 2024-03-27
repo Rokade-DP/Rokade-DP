@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 📫 How to reach me **dhananjayrokade9665@gmail.com**
+- 📫 How to reach me Here: **dhananjayrokade9665@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D8O8gGoHtcwGcR_gssw3CT175hNFR6Md/view?usp=sharing](https://drive.google.com/file/d/1D8O8gGoHtcwGcR_gssw3CT175hNFR6Md/view?usp=sharing)
 
